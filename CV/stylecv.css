@@ -1,0 +1,33 @@
+header{
+    background-color: rgb(202, 82, 218);
+    text-align: center;
+    border-radius: 10px;
+}
+.profile{
+    background-color: chocolate;
+    text-align: center;
+}
+main{
+    background-image: url(/fundamentos-web01/IMG/body3-emp.jpg);
+   }
+.education{
+    text-align: center;
+}
+
+.experience{
+    text-align: center;
+}
+.skills{
+    text-align: center;
+}
+.capabilities{
+    text-align: center;
+}
+.contact{
+   text-align:center;
+}
+.social{
+   
+    display: flex;
+    justify-content: center;
+}
